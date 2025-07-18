@@ -75,7 +75,9 @@ class TelloManager(object):
         print(f'[SEARCHING], Searching for {num} from {len(possible_ips)} possible IP addresses')
 
         iters = 0
-
+        print(possible_ips)
+        del possible_ips[0:99]
+        print(possible_ips)
         while len(self.tello_ip_list) < num:
             print(f'[SEARCHING], Trying to find Tellos, number of tries = {iters + 1}')
 
@@ -113,7 +115,7 @@ class TelloManager(object):
         """
         infos = self.get_subnets()
         ips = SubnetInfo.flatten([info.get_ips() for info in infos])
-        ips = list(filter(lambda ip: ip.startswith('192.168.3.'), ips))
+        ips = list(filter(lambda ip: ip.startswith('192.168.10.'), ips))
         return ips
 
     def get_subnets(self):
@@ -124,6 +126,7 @@ class TelloManager(object):
         """
         infos = []
 
+        
         for iface in netifaces.interfaces():
             addrs = netifaces.ifaddresses(iface)
 
@@ -134,8 +137,11 @@ class TelloManager(object):
             ipinfo = addrs[socket.AF_INET][0]
             address, netmask = ipinfo['addr'], ipinfo['netmask']
 
+            print(ipinfo)
             # limit range of search. This will work for router subnets
             if netmask != '255.255.255.0':
+                print ("NetMask="+ str(netmask))
+                print ("Will not search this subnet")
                 continue
 
             # Create ip object and get

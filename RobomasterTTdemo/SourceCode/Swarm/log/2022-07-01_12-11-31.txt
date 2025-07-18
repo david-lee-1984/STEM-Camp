@@ -1,0 +1,9 @@
+------
+Drone: 1
+id=0, command=command, response=None, start_time=2022-07-01 12:11:10.293568, end_time=None, duration=None
+id=1, command=command, response=ok, start_time=2022-07-01 12:11:10.303547, end_time=2022-07-01 12:11:10.336109, duration=0.032562
+id=2, command=battery?, response=29
+, start_time=2022-07-01 12:11:15.413447, end_time=2022-07-01 12:11:15.442369, duration=0.028922
+id=3, command=sn?, response=0TQZK1FCNT1NX6, start_time=2022-07-01 12:11:17.093953, end_time=2022-07-01 12:11:17.127862, duration=0.033909
+id=4, command=takeoff, response=ok, start_time=2022-07-01 12:11:18.757515, end_time=2022-07-01 12:11:27.477499, duration=8.719984
+id=5, command=land, response=ok, start_time=2022-07-01 12:11:27.504710, end_time=2022-07-01 12:11:31.149792, duration=3.645082

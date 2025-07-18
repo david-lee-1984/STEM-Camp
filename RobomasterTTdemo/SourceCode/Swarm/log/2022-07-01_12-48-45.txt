@@ -1,0 +1,4 @@
+------
+Drone: 1
+id=0, command=command, response=ok, start_time=2022-07-01 12:48:23.270199, end_time=2022-07-01 12:48:23.289980, duration=0.019781
+id=1, command=battery?, response=error, start_time=2022-07-01 12:48:28.342190, end_time=2022-07-01 12:48:45.580022, duration=17.237832

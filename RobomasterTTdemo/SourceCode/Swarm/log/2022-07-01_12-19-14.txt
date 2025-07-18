@@ -1,0 +1,1232 @@
+------
+Drone: 1
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.141007, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.250258, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.286325, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.324731, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.364065, end_time=None, duration=None
+------
+Drone: 2
+id=0, command=command, response=unactive, start_time=2022-07-01 12:18:44.141007, end_time=2022-07-01 12:18:44.194315, duration=0.053308
+id=1, command=command, response=unactive, start_time=2022-07-01 12:18:49.196981, end_time=2022-07-01 12:18:49.242458, duration=0.045477
+id=2, command=command, response=unactive, start_time=2022-07-01 12:18:54.250258, end_time=2022-07-01 12:18:54.292000, duration=0.041742
+id=3, command=command, response=unactive, start_time=2022-07-01 12:18:59.286325, end_time=2022-07-01 12:18:59.288353, duration=0.002028
+id=4, command=command, response=unactive, start_time=2022-07-01 12:19:04.324731, end_time=2022-07-01 12:19:04.337697, duration=0.012966
+id=5, command=command, response=unactive, start_time=2022-07-01 12:19:09.364065, end_time=2022-07-01 12:19:09.387218, duration=0.023153
+------
+Drone: 3
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.141007, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.250258, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.286325, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.324731, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.364065, end_time=None, duration=None
+------
+Drone: 4
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.141007, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.250258, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.286325, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.324731, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.364065, end_time=None, duration=None
+------
+Drone: 5
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.141007, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.250258, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.286325, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.324731, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.364065, end_time=None, duration=None
+------
+Drone: 6
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.141007, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.250258, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.286325, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.324731, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.364065, end_time=None, duration=None
+------
+Drone: 7
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.141007, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.250258, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.286325, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.324731, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.364065, end_time=None, duration=None
+------
+Drone: 8
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.141007, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.286325, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.324731, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.364065, end_time=None, duration=None
+------
+Drone: 9
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.141007, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.286325, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.324731, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.364065, end_time=None, duration=None
+------
+Drone: 10
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.141007, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.286325, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.324731, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.364065, end_time=None, duration=None
+------
+Drone: 11
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.286325, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.324731, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.364065, end_time=None, duration=None
+------
+Drone: 12
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.286325, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.324731, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.364065, end_time=None, duration=None
+------
+Drone: 13
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.286325, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.324731, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.364065, end_time=None, duration=None
+------
+Drone: 14
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.286325, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.324731, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.364065, end_time=None, duration=None
+------
+Drone: 15
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.286325, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.324731, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.364065, end_time=None, duration=None
+------
+Drone: 16
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.286325, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.324731, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.364065, end_time=None, duration=None
+------
+Drone: 17
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.286325, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.324731, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.364065, end_time=None, duration=None
+------
+Drone: 18
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.286325, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.364065, end_time=None, duration=None
+------
+Drone: 19
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.286325, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.364065, end_time=None, duration=None
+------
+Drone: 20
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.286325, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.364065, end_time=None, duration=None
+------
+Drone: 21
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.286325, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.364065, end_time=None, duration=None
+------
+Drone: 22
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.286325, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.364065, end_time=None, duration=None
+------
+Drone: 23
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.286325, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 24
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.286325, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 25
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 26
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 27
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 28
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 29
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 30
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 31
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 32
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 33
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 34
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.251255, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 35
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 36
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 37
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 38
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 39
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.196981, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 40
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 41
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 42
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 43
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 44
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.325727, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 45
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.142005, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 46
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 47
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 48
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 49
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 50
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 51
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 52
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.287355, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 53
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.288353, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 54
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.288353, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 55
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.288353, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 56
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.288353, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 57
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.288353, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 58
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.288353, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 59
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.288353, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 60
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.288353, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 61
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.288353, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 62
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.288353, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 63
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.288353, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 64
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.252251, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.288353, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 65
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.253249, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.288353, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 66
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.253249, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.288353, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 67
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.253249, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.288353, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 68
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.253249, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.288353, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 69
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.253249, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.288353, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 70
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.253249, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.288353, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 71
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.253249, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.288353, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 72
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.253249, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.288353, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 73
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.253249, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.288353, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 74
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.253249, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.288353, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 75
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.253249, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.288353, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 76
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.253249, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.288353, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 77
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.253249, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 78
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.253249, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 79
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.253249, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 80
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143002, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.253249, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 81
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198016, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.253249, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 82
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.253249, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 83
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 84
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 85
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 86
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 87
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 88
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 89
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 90
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 91
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 92
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 93
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 94
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 95
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 96
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 97
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 98
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.326725, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 99
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.327722, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 100
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.327722, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 101
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.327722, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 102
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.327722, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 103
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.327722, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 104
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.327722, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 105
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.327722, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 106
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.327722, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 107
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.327722, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 108
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.143999, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.327722, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 109
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.254246, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.327722, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 110
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.327722, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 111
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.327722, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 112
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.327722, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 113
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.327722, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 114
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.327722, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 115
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.327722, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 116
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.327722, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.365022, end_time=None, duration=None
+------
+Drone: 117
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.327722, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 118
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.289330, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.327722, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 119
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.327722, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 120
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.327722, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 121
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.328720, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 122
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.328720, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 123
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.328720, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 124
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.328720, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 125
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.328720, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 126
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.328720, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 127
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.328720, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 128
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.198982, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.328720, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 129
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.328720, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 130
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.328720, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 131
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.328720, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 132
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.328720, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 133
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.328720, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 134
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.328720, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 135
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.328720, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 136
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.255245, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.328720, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 137
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.256240, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.329717, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 138
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.256240, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.329717, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 139
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.144997, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.256240, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.329717, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 140
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.145994, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.256240, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.329717, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 141
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.145994, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.256240, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.329717, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 142
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.145994, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.256240, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.329717, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 143
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.145994, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.256240, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.329717, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 144
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.145994, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.256240, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.329717, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 145
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.145994, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.256240, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.329717, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 146
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.145994, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.256240, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.329717, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 147
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.145994, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.256240, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.329717, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 148
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.145994, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.256240, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.329717, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 149
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.145994, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.256240, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.329717, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 150
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.145994, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.256240, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.329717, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 151
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.145994, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.256240, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.329717, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 152
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.146996, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.256240, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.329717, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 153
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.146996, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.256240, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.329717, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None
+------
+Drone: 154
+id=0, command=command, response=None, start_time=2022-07-01 12:18:44.146996, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:18:49.200030, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:18:54.256240, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:18:59.290313, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:19:04.329717, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:19:09.366056, end_time=None, duration=None

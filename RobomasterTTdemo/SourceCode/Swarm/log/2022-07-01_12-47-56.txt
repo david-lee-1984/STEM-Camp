@@ -1,0 +1,15 @@
+------
+Drone: 1
+id=0, command=command, response=None, start_time=2022-07-01 12:47:19.301911, end_time=None, duration=None
+id=1, command=command, response=ok, start_time=2022-07-01 12:47:24.342461, end_time=2022-07-01 12:47:24.386663, duration=0.044202
+id=2, command=battery?, response=79
+, start_time=2022-07-01 12:47:29.427620, end_time=2022-07-01 12:47:29.438667, duration=0.011047
+id=3, command=sn?, response=0TQZK1FCNT1NX6, start_time=2022-07-01 12:47:31.033744, end_time=2022-07-01 12:47:31.070678, duration=0.036934
+id=4, command=takeoff, response=ok, start_time=2022-07-01 12:47:32.679808, end_time=2022-07-01 12:47:38.720878, duration=6.04107
+id=5, command=cw 90, response=ok, start_time=2022-07-01 12:47:38.829579, end_time=2022-07-01 12:47:41.019351, duration=2.189772
+id=6, command=ccw 90, response=ok, start_time=2022-07-01 12:47:41.142179, end_time=2022-07-01 12:47:43.211445, duration=2.069266
+id=7, command=cw 90, response=ok, start_time=2022-07-01 12:47:43.357050, end_time=2022-07-01 12:47:45.402873, duration=2.045823
+id=8, command=ccw 90, response=ok, start_time=2022-07-01 12:47:45.575411, end_time=2022-07-01 12:47:47.799617, duration=2.224206
+id=9, command=forward 50, response=ok, start_time=2022-07-01 12:47:47.891718, end_time=2022-07-01 12:47:49.840624, duration=1.948906
+id=10, command=back 50, response=ok, start_time=2022-07-01 12:47:50.001299, end_time=2022-07-01 12:47:52.140968, duration=2.139669
+id=11, command=land, response=ok, start_time=2022-07-01 12:47:52.295834, end_time=2022-07-01 12:47:55.858498, duration=3.562664

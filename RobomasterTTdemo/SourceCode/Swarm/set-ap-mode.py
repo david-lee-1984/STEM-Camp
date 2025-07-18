@@ -48,7 +48,7 @@ def parse_args(args):
 
     parser.add_argument('-s', '--ssid', help='SSID', required=True)
     parser.add_argument('-p', '--pwd', help='password', required=True)
-    parser.add_argument('--ip', help='Tello IP', default='192.168.10.1', required=False)
+    parser.add_argument('--ip', help='Tello IP', default='192.168.4.106', required=False)
     parser.add_argument('--port', help='Tello port', default=8889, type=int, required=False)
     parser.add_argument('--version', action='version', version='%(prog)s v0.0.1')
 

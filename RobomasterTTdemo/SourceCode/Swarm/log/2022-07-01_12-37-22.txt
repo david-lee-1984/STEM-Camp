@@ -1,0 +1,13 @@
+------
+Drone: 1
+id=0, command=command, response=None, start_time=2022-07-01 12:36:38.658737, end_time=None, duration=None
+id=1, command=command, response=None, start_time=2022-07-01 12:36:43.712061, end_time=None, duration=None
+id=2, command=command, response=None, start_time=2022-07-01 12:36:48.757179, end_time=None, duration=None
+id=3, command=command, response=None, start_time=2022-07-01 12:36:53.803691, end_time=None, duration=None
+id=4, command=command, response=None, start_time=2022-07-01 12:36:58.852536, end_time=None, duration=None
+id=5, command=command, response=None, start_time=2022-07-01 12:37:03.895002, end_time=None, duration=None
+id=6, command=command, response=None, start_time=2022-07-01 12:37:08.938916, end_time=None, duration=None
+id=7, command=command, response=ok, start_time=2022-07-01 12:37:13.986443, end_time=2022-07-01 12:37:14.032033, duration=0.04559
+id=8, command=battery?, response=87
+, start_time=2022-07-01 12:37:19.069135, end_time=2022-07-01 12:37:19.084096, duration=0.014961
+id=9, command=sn?, response=0TQZK1FCNT1NX6, start_time=2022-07-01 12:37:20.634188, end_time=2022-07-01 12:37:20.665078, duration=0.03089
